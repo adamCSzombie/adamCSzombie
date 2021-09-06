@@ -1,6 +1,6 @@
 <img src="https://github.com/adamCSzombie/adamCSzombie/blob/main/smartcity.png">
 
-<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮!</h1>
+<h1 align="center">🥀𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮!🥀</h1>
 
 ## 👨🏻‍💻 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 
