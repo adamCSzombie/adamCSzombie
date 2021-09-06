@@ -20,26 +20,21 @@
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/parth-27">
+
+  <a href="https://github.com/adamCSzombie">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
-
   <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
+  <a href="https://www.facebook.com/adam.valiska/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
  
-  <a href="https://www.instagram.com/parth._.27/">
+  <a href="https://www.instagram.com/adamvaliska/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://twitter.com/parthpatel_27">
+  <a href="https://twitter.com/valiskaadam">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
@@ -47,4 +42,4 @@
 
 <div align = "center">
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ 𝓕𝓻𝓸𝓶 [𝓪𝓭𝓪𝓶𝓒𝓢𝔃𝓸𝓶𝓫𝓲𝓮](https://github.com/adamCSzombie)
