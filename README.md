@@ -1,4 +1,4 @@
-<img src="https://github.com/adamCSzombie/adamCSzombie/blob/main/smartcity.png">
+<img src="https://www.ongym.sk/wp-content/uploads/2022/12/white_logo-300x209.png">
 
 <h1 align="center">🥀𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮!🥀</h1>
 
